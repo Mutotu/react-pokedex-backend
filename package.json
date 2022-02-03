@@ -18,7 +18,7 @@
     "morgan": "^1.10.0",
     "pg": "^8.6.0",
     "rowdy-logger": "^1.0.2",
-    "sequelize": "^6.6.2",
+    "sequelize": "^6.11.0",
     "sequelize-cli": "^6.2.0"
   }
 }
